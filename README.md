@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://abdelaziz123456.github.io/my-portfolio/](https://abdelaziz123456.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [https://abdelaziz123456.github.io/2022-portfolio/](https://abdelaziz123456.github.io/2022-portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdelaziz12315/](https://www.linkedin.com/in/abdelaziz12315/)
 
