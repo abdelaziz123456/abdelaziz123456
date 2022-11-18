@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelaziz Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer - React/React Native- from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelaziz123456&label=Profile%20views&color=0e75b6&style=flat" alt="abdelaziz123456" /> </p>
 
